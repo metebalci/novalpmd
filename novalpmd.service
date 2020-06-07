@@ -1,0 +1,9 @@
+[Unit]
+Description=Novation Launchpad Mini Daemon
+
+[Service]
+Type=simple
+ExecStart=<point_to_novalpmd_executable>
+
+[Install]
+WantedBy=multi-user.target
