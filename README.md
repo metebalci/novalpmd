@@ -3,7 +3,9 @@
 
 # Novation Launchpad Mini Daemon - UDP Controller
 
-This is a small daemon to control Novation Launchpad Mini with UDP messages.
+This is a small daemon to control [Novation Launchpad Mini (MK3)](https://novationmusic.com/en/launch/launchpad-mini) with UDP messages.
+
+![Novation Launchpad Mini](https://novationmusic.com/sites/novation/files/lpm-3quart-pastels-2000.png)
 
 This program runs under Linux and requires alsa.
 
