@@ -1,5 +1,7 @@
 dist: xenial
 language: c
 compiler: gcc
+before_script:
+  - sudo apt-get -y install libasound2-dev
 script:
   - make
