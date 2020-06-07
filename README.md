@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.com/metebalci/novalpmd.svg?branch=master)](https://travis-ci.com/metebalci/novalpmd)
+
 # Novation Launchpad Mini Daemon - UDP Controller
 
 This is a small daemon to control Novation Launchpad Mini with UDP messages.
