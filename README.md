@@ -58,6 +58,10 @@ $ echo -n "3 1 1 255 255 0\n" | nc -4u -w0 localhost 8888
 
 Controller supports RGB codes from 0 to 127 (MIDI limitation), so the provided values are divided by 2 internally in the daemon.
 
+# Example
+
+binary-clock.py: a binary clock/calendar running on the controller, showing year/month/day and hour:minute:second as binary numbers in vertical columns.
+
 # References
 
 - [Launchpad Mini Programmer's Reference Manual](https://fael-downloads-prod.focusrite.com/customer/prod/s3fs-public/downloads/Launchpad%20Mini%20-%20Programmers%20Reference%20Manual.pdf)
